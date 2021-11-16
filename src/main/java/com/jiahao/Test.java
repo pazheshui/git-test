@@ -13,5 +13,6 @@ public class Test {
         System.out.println("push");
         System.out.println("pull");
         System.out.println("pullasd");
+        System.out.println("pullasd2222");
     }
 }
