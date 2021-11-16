@@ -10,5 +10,6 @@ public class Test {
         System.out.println("hot test");
         System.out.println("master new");
         System.out.println("hot new");
+        System.out.println("push");
     }
 }
