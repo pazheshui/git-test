@@ -12,5 +12,6 @@ public class Test {
         System.out.println("hot new");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("pullasd");
     }
 }
